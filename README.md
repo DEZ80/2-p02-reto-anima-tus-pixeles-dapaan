@@ -9,7 +9,10 @@ Copia más abajo tus programas, cada uno en su parte del reto.
 ## Actividad 1: Mover el píxel rojo
 Pixel que se mueve cíclicamente por los 4 primeros píxeles de pantalla
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 00 C0 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 3E 44 32 00 C0 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 3E 22 32 00 C0 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 76 3E 11 32 00 C0 C3 00 40
+
+Versión usando bucles
+21 88 00 22 00 C0 3E 20 76 3D 20 FC 21 44 00 22 00 C0 3E 20 76 3D 20 FC 21 22 00 22 00 C0 3E 20 76 3D 20 FC 21 11 00 22 00 C0 3E 20 76 3D 20 FC C3 00 40
 ```
 PC: 4000
 
